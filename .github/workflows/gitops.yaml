@@ -1,4 +1,4 @@
-# .github/workflows/gitops.yaml
+## .github/workflows/gitops.yaml
 name: GitOps CI/CD
 
 on:

@@ -1,6 +1,6 @@
 image:
   repository: dpentim78/go-server
-  tag: latest
+  tag: new-tag-value
 
 service:
   type: LoadBalancer
@@ -10,4 +10,4 @@ service:
 
 # image:
 #   repository: rinkiyakedad/go-server
-#   tag: acad55220e5267404d7f5cbc0e1104a92a588de9
+#   tag: new-tag-value
